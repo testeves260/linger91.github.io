@@ -1,0 +1,147 @@
+body
+{
+    margin: 0%;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    text-decoration-color: #A1CAE2;
+    font-size: 16px;
+}
+
+/* TOP Container */
+
+.topContainer{
+    background-color: #EAF6F6;
+}
+.top-cloud{
+    position: relative;
+    margin-left: 900px;
+    padding-top: 25px;
+}
+
+.top-h1{
+    margin-top: 20px;
+    font-family: 'Sacramento', cursive;
+    font-size: 5rem;
+    color: #66BFBF;
+}
+
+.top-h2{    
+    line-height: 2;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2rem;
+    font-weight: normal;
+    margin-bottom: 100px;
+    color: #66BFBF;
+}
+.dev{
+    text-decoration: underline;
+}
+
+.bottom-cloud{
+    display: block;
+    position: absolute;
+    left: 115px;
+}
+
+.mountain{
+    position: relative;
+}
+
+/* Middle Container */
+
+.middle-container{
+    
+    background-color: white;
+    margin-bottom: 50px;
+}
+
+h2{
+    font-family: 'Montserrat', sans-serif;
+    color: #11999E;
+    font-weight: normal;
+    font-size: 300%;
+}
+
+h3{
+    font-family: 'Montserrat', sans-serif;
+    color: #11999E;
+}
+
+a{
+    font-family: 'Montserrat', sans-serif;
+    color: #11999E;
+}
+
+/* Profile */
+
+.profile{
+    margin-bottom: 75px;
+    padding-top: 10px;
+}
+
+.profile h2{
+    padding-bottom: 10px;
+}
+
+.mypic{
+    width: 25%;
+    height: 25%;
+}
+
+.thisIsMe p{
+    line-height: 2;
+}
+
+
+
+/*Skills Container */
+
+.skills{
+    
+}
+
+.skill-row{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+
+.skill1_img{
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+
+.skill2_img{
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+}
+
+hr{
+    width: 200px;
+    border: none;
+    border-bottom-style: dotted;
+    border-bottom-width: 10px;
+    border-bottom-color: #EAF6F6;
+    background-color: white;
+}
+
+/* Bottom Container */
+
+.btn{
+    
+}
+.bottom-container{
+    background-color: #CCF2F4;
+    padding-bottom: 50px;
+}
+#checkout{
+    text-decoration: underline;
+    color: coral;
+}
+
+.footer-link{
+    margin: 0 10px;
+}
